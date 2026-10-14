@@ -1,0 +1,6 @@
+interface:
+  display_name: "Low Usage Mode + Ponytail"
+  short_description: "Finish requested work economically with Ponytail included"
+  default_prompt: "Use $low-usage-mode, including Ponytail for coding, to complete the requested outcome with bounded scope and reuse valid evidence."
+policy:
+  allow_implicit_invocation: true
